@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph Winform", "Graph Winform\Graph Winform.csproj", "{4E4381F7-B6BC-4764-839A-16AA2BED9D62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E4381F7-B6BC-4764-839A-16AA2BED9D62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E4381F7-B6BC-4764-839A-16AA2BED9D62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E4381F7-B6BC-4764-839A-16AA2BED9D62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E4381F7-B6BC-4764-839A-16AA2BED9D62}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C589A75E-6A3C-4463-AA7A-4E8C52A753E0}
+	EndGlobalSection
+EndGlobal
